@@ -1,0 +1,17 @@
+
+{
+    "time-wrap": {
+        "scope": "c++, cpp, c, h",
+        "prefix": "time-wrap",
+        "body": [
+            "void time_wrap(function<void(vector<string>&)> func, vector<string>& input)",
+            "{",
+            "\tauto start = chrono::system_clock::now();",
+            "\tfunc(input);",
+            "\tauto end = chrono::system_clock::now();",
+            "\tchrono::duration<double> elapsed = end - start;",
+            "\tcout << \"time_seconds=\" << elapsed.count() << \"endl;\";",
+            "}",
+        ]
+    }
+}

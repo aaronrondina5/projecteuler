@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Execute main - 0",
+            "type": "shell",
+            "command": "mkdir -p ${fileDirname}/build && g++-15 -std=c++23 main.cpp -o ${fileDirname}/build/${fileBasenameNoExtension}.tsk && ${fileDirname}/build/${fileBasenameNoExtension}.tsk < ${fileDirname}/io/input0.txt > ${fileDirname}/io/output0.txt",
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            }
+        },
+        {
+            "label": "Execute main - 1",
+            "type": "shell",
+            "command": "mkdir -p ${fileDirname}/build && g++-15 -std=c++23 main.cpp -o ${fileDirname}/build/${fileBasenameNoExtension}.tsk && ${fileDirname}/build/${fileBasenameNoExtension}.tsk < ${fileDirname}/io/input1.txt > ${fileDirname}/io/output1.txt",
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            }
+        }
+    ]
+}
