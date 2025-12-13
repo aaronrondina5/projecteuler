@@ -55,6 +55,6 @@
         "list": "cpp"
     },
     "github.copilot.enable": {
-        "cpp": true
+        "cpp": false
     }
 }
