@@ -1,0 +1,101 @@
+[ COL 49 ]
+sum=17, col_res=7, carry=1
+[ COL 48 ]
+sum=11, col_res=1, carry=1
+[ COL 47 ]
+sum=14, col_res=4, carry=1
+[ COL 46 ]
+sum=10, col_res=0, carry=1
+[ COL 45 ]
+sum=11, col_res=1, carry=1
+[ COL 44 ]
+sum=13, col_res=3, carry=1
+[ COL 43 ]
+sum=21, col_res=1, carry=2
+[ COL 42 ]
+sum=7, col_res=7, carry=0
+[ COL 41 ]
+sum=7, col_res=7, carry=0
+[ COL 40 ]
+sum=13, col_res=3, carry=1
+[ COL 39 ]
+sum=5, col_res=5, carry=0
+[ COL 38 ]
+sum=16, col_res=6, carry=1
+[ COL 37 ]
+sum=10, col_res=0, carry=1
+[ COL 36 ]
+sum=12, col_res=2, carry=1
+[ COL 35 ]
+sum=4, col_res=4, carry=0
+[ COL 34 ]
+sum=16, col_res=6, carry=1
+[ COL 33 ]
+sum=22, col_res=2, carry=2
+[ COL 32 ]
+sum=7, col_res=7, carry=0
+[ COL 31 ]
+sum=10, col_res=0, carry=1
+[ COL 30 ]
+sum=12, col_res=2, carry=1
+[ COL 29 ]
+sum=23, col_res=3, carry=2
+[ COL 28 ]
+sum=17, col_res=7, carry=1
+[ COL 27 ]
+sum=12, col_res=2, carry=1
+[ COL 26 ]
+sum=14, col_res=4, carry=1
+[ COL 25 ]
+sum=16, col_res=6, carry=1
+[ COL 24 ]
+sum=15, col_res=5, carry=1
+[ COL 23 ]
+sum=13, col_res=3, carry=1
+[ COL 22 ]
+sum=20, col_res=0, carry=2
+[ COL 21 ]
+sum=22, col_res=2, carry=2
+[ COL 20 ]
+sum=19, col_res=9, carry=1
+[ COL 19 ]
+sum=20, col_res=0, carry=2
+[ COL 18 ]
+sum=17, col_res=7, carry=1
+[ COL 17 ]
+sum=15, col_res=5, carry=1
+[ COL 16 ]
+sum=13, col_res=3, carry=1
+[ COL 15 ]
+sum=5, col_res=5, carry=0
+[ COL 14 ]
+sum=8, col_res=8, carry=0
+[ COL 13 ]
+sum=6, col_res=6, carry=0
+[ COL 12 ]
+sum=11, col_res=1, carry=1
+[ COL 11 ]
+sum=19, col_res=9, carry=1
+[ COL 10 ]
+sum=20, col_res=0, carry=2
+[ COL 9 ]
+sum=21, col_res=1, carry=2
+[ COL 8 ]
+sum=14, col_res=4, carry=1
+[ COL 7 ]
+sum=21, col_res=1, carry=2
+[ COL 6 ]
+sum=21, col_res=1, carry=2
+[ COL 5 ]
+sum=22, col_res=2, carry=2
+[ COL 4 ]
+sum=19, col_res=9, carry=1
+[ COL 3 ]
+sum=10, col_res=0, carry=1
+[ COL 2 ]
+sum=8, col_res=8, carry=0
+[ COL 1 ]
+sum=17, col_res=7, carry=1
+[ COL 0 ]
+sum=15, col_res=5, carry=1
+result=1578092114
